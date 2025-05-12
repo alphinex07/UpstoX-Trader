@@ -60,4 +60,4 @@ The application can automatically map stock symbols to instrument tokens using t
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache 2.0 License.
